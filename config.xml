@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name></name>
+    <name>aplicacion05</name>
 
     <description>
         Aplicacion que al realizar el arrastre de una figura, aparec un mensaje alert o un menu
